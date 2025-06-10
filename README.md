@@ -1,4 +1,4 @@
-<h3 align="center">A Aspiring developer from India IN</h3>
+<h3 align="center">A tech enthusiast and developer from India </h3>
 
 - 🌱 I’m currently learning **Nextjs, LLM**
 - 💬 Ask me about **Node.js, React, Express.js**... or anything [here](https://github.com/yourusername)
