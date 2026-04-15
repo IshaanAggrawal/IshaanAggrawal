@@ -18,7 +18,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑💻 About Me
 
 <img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -237,80 +237,3 @@ Other        █░░░░░░░░░░░░░░░░░░░░░�
 <p align="center">
   <b>Thanks for visiting! Drop a ⭐ if you liked it 😊</b>
 </p>
-
-<!-- ═══════════════════════════════════════════════════════════════════════
-╔══════════════════════ SETUP INSTRUCTIONS ═══════════════════════════════╗
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🐍 1. SNAKE ANIMATION (GitHub Action)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Create: .github/workflows/snake.yml
-
-name: Generate Snake
-on:
-  schedule: [{cron: "0 0 * * *"}]
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-→ Settings → Actions → General → Read & Write Permissions ✅
-→ Run workflow once manually
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⏱️ 2. WAKATIME CODING STATS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1. Sign up at https://wakatime.com
-2. Install WakaTime plugin in VS Code
-3. Get API key → Settings → Secrets → WAKATIME_API_KEY
-4. Get GitHub PAT (repo + user scope) → Secrets → GH_TOKEN
-
-Create: .github/workflows/waka.yml
-name: WakaTime Stats
-on:
-  schedule: [{cron: "30 18 * * *"}]
-  workflow_dispatch:
-jobs:
-  update-readme:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: anmol098/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🎵 3. SPOTIFY NOW PLAYING
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1. Go to: https://github.com/kittinanx/spotify-github-profile
-2. Click "Login with Spotify" on the demo site
-3. Get your UID and replace YOUR-SPOTIFY-ID in this README
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🌐 4. 3D CONTRIBUTION CALENDAR
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Repo: https://github.com/yoshi389111/github-profile-3d-contrib
-Just update the username in the URL above — no setup needed!
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-♟️ 5. CHESS GAME (Interactive via Issues)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Fork: https://github.com/marcizhu/marcizhu
-Follow the setup in that repo's README to get a live chess board
-that updates via GitHub Actions when visitors open Issues.
-
-╚═════════════════════════════════════════════════════════╝
-═══════════════════════════════════════════════════════════════════════ -->
