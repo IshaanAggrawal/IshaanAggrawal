@@ -12,8 +12,8 @@
 
 <!-- 🎯 PROFILE VIEWS + FOLLOWERS BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ishaanaggrawal&label=👁️+Profile+Views&color=7c3aed&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/ishaanaggrawal?label=Followers&style=for-the-badge&color=7c3aed&labelColor=4c1d95" />
+  <img src="https://komarev.com/ghpvc/?username=IshaanAggrawal&label=👁️+Profile+Views&color=7c3aed&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/IshaanAggrawal?label=Followers&style=for-the-badge&color=7c3aed&labelColor=4c1d95" />
 </p>
 
 ---
@@ -82,142 +82,30 @@ const ishaan = {
 
 ---
 
-## 🎮 Play Chess With Me! ♟️
-
-> **Click a move below** — it opens a GitHub Issue → I respond via GitHub Actions!
-> The board auto-updates after every move. You're playing as **Black ⚫**
-
-<!-- Chess board image auto-updates via GitHub Actions -->
-<p align="center">
-  <a href="https://github.com/timburgan/timburgan">
-    <img src="https://readme-chess.vercel.app/api?username=ishaanaggrawal" width="400" alt="Chess Board"/>
-  </a>
-</p>
-
-**Start a new game or make a move:**
-
-| Move | Link |
-|------|------|
-| ♟️ e7-e5 | [Click to play e7-e5](https://github.com/ishaanaggrawal/ishaanaggrawal/issues/new?title=chess%3A+move+e7-e5&body=%E2%9C%85+Making+move+e7-e5) |
-| ♟️ d7-d5 | [Click to play d7-d5](https://github.com/ishaanaggrawal/ishaanaggrawal/issues/new?title=chess%3A+move+d7-d5&body=%E2%9C%85+Making+move+d7-d5) |
-| ♟️ g8-f6 | [Click to play g8-f6](https://github.com/ishaanaggrawal/ishaanaggrawal/issues/new?title=chess%3A+move+g8-f6&body=%E2%9C%85+Making+move+g8-f6) |
-| ♟️ c7-c5 | [Click to play c7-c5](https://github.com/ishaanaggrawal/ishaanaggrawal/issues/new?title=chess%3A+move+c7-c5&body=%E2%9C%85+Making+move+c7-c5) |
-
----
-
 ## 🐍 Watch the Snake Eat My Contributions!
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ishaanaggrawal/ishaanaggrawal/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ishaanaggrawal/ishaanaggrawal/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ishaanaggrawal/ishaanaggrawal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IshaanAggrawal/IshaanAggrawal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IshaanAggrawal/IshaanAggrawal/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IshaanAggrawal/IshaanAggrawal/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </p>
-
----
-
-## 🌐 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=ishaanaggrawal&theme=nightowl" width="100%" alt="3D Contribution Calendar"/>
-</p>
-
-> ⚙️ **Setup:** Run the GitHub Action from `lowlighter/metrics` with `plugin_isocalendar: yes`
-
----
-
-## 🎵 Spotify — What I'm Grooving To
-
-<p align="center">
-  <a href="https://open.spotify.com/user/YOUR-SPOTIFY-ID">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR-SPOTIFY-ID&count=3&unique=true&width=700" alt="Spotify Recently Played" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR-SPOTIFY-ID&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&interchange=false" alt="Spotify Now Playing" />
-</p>
-
-> 🎵 **Setup:** Deploy [spotify-github-profile](https://github.com/kittinanx/spotify-github-profile) + replace YOUR-SPOTIFY-ID
 
 ---
 
 ## ⏱️ WakaTime — My Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 269.5 kB Used in GitHub's Storage 
- > 
-> 🏆 212 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 44 Public Repositories 
- > 
-> 🔑 17 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
 ```text
-🌞 Morning                168 commits         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-🌆 Daytime                266 commits         ████████░░░░░░░░░░░░░░░░░   32.56 % 
-🌃 Evening                364 commits         ███████████░░░░░░░░░░░░░░   44.55 % 
-🌙 Night                  19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+⏳ This week's coding breakdown will appear here after WakaTime setup!
+
+JavaScript   ██████████░░░░░░░░░░░░░░░   42.3 %
+Python       ██████░░░░░░░░░░░░░░░░░░░   24.1 %
+TypeScript   ████░░░░░░░░░░░░░░░░░░░░░   16.8 %
+HTML/CSS     ███░░░░░░░░░░░░░░░░░░░░░░   12.5 %
+Other        █░░░░░░░░░░░░░░░░░░░░░░░░    4.3 %
 ```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Tuesday                  102 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Wednesday                76 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Thursday                 120 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Friday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-Saturday                 167 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-Sunday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   19 repos            ████████░░░░░░░░░░░░░░░░░   31.15 % 
-JavaScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Jupyter Notebook         9 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/IshaanAggrawal/IshaanAggrawal/main/assets/bar_graph.png)
-
-
- Last Updated on 15/04/2026 12:57:08 UTC
 <!--END_SECTION:waka-->
 
 ---
@@ -225,12 +113,12 @@ Java                     1 repo              ░░░░░░░░░░░�
 ## 📊 GitHub Stats Dashboard
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=ishaanaggrawal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishaanaggrawal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=IshaanAggrawal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaanAggrawal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=ishaanaggrawal&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=IshaanAggrawal&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9" />
 </div>
 
 ---
@@ -238,7 +126,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ## 📈 Last 31-Day Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishaanaggrawal&bg_color=0D1117&color=a78bfa&line=a78bfa&point=FFFFFF&area=true&area_color=4c1d95&hide_border=true&custom_title=Ishaan's%20Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IshaanAggrawal&bg_color=0D1117&color=a78bfa&line=a78bfa&point=FFFFFF&area=true&area_color=4c1d95&hide_border=true&custom_title=Ishaan's%20Contribution%20Graph" width="100%"/>
 </p>
 
 ---
@@ -246,7 +134,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ## 🏆 Trophy Cabinet
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ishaanaggrawal&theme=discord&no-frame=true&no-bg=true&margin-w=5&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=IshaanAggrawal&theme=discord&no-frame=true&no-bg=true&margin-w=5&row=1&column=7"/>
 </p>
 
 ---
