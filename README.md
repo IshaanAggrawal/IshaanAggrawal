@@ -97,15 +97,77 @@ const ishaan = {
 ## ⏱️ WakaTime — My Coding Activity
 
 <!--START_SECTION:waka-->
-```text
-⏳ This week's coding breakdown will appear here after WakaTime setup!
+![Profile Views](http://img.shields.io/badge/Profile%20Views-58-blue?style=flat)
 
-JavaScript   ██████████░░░░░░░░░░░░░░░   42.3 %
-Python       ██████░░░░░░░░░░░░░░░░░░░   24.1 %
-TypeScript   ████░░░░░░░░░░░░░░░░░░░░░   16.8 %
-HTML/CSS     ███░░░░░░░░░░░░░░░░░░░░░░   12.5 %
-Other        █░░░░░░░░░░░░░░░░░░░░░░░░    4.3 %
+**🐱 My GitHub Data** 
+
+> 📦 269.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 215 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 45 Public Repositories 
+ > 
+> 🔑 17 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                176 commits         █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+🌆 Daytime                261 commits         ████████░░░░░░░░░░░░░░░░░   32.10 % 
+🌃 Evening                357 commits         ███████████░░░░░░░░░░░░░░   43.91 % 
+🌙 Night                  19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 ```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Tuesday                  95 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
+Wednesday                77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Thursday                 128 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Friday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Saturday                 165 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Sunday                   60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   19 repos            ████████░░░░░░░░░░░░░░░░░   31.67 % 
+JavaScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+TypeScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Jupyter Notebook         8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/IshaanAggrawal/IshaanAggrawal/main/assets/bar_graph.png)
+
+
+ Last Updated on 16/04/2026 19:48:17 UTC
 <!--END_SECTION:waka-->
 
 ---
