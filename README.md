@@ -99,7 +99,7 @@ const ishaan = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -116,21 +116,21 @@ const ishaan = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                185 commits         █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-🌆 Daytime                307 commits         ████████░░░░░░░░░░░░░░░░░   33.01 % 
-🌃 Evening                404 commits         ███████████░░░░░░░░░░░░░░   43.44 % 
-🌙 Night                  34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+🌞 Morning                194 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+🌆 Daytime                308 commits         ████████░░░░░░░░░░░░░░░░░   32.46 % 
+🌃 Evening                407 commits         ███████████░░░░░░░░░░░░░░   42.89 % 
+🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Tuesday                  147 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Wednesday                82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Thursday                 131 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Friday                   197 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Saturday                 183 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-Sunday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Monday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+Tuesday                  158 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+Wednesday                82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Thursday                 131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Friday                   197 commits         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+Saturday                 188 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Sunday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 ```
 
 
@@ -169,7 +169,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshaanAggrawal/IshaanAggrawal/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2026 19:51:47 UTC
+ Last Updated on 02/05/2026 19:38:05 UTC
 <!--END_SECTION:waka-->
 
 ---
