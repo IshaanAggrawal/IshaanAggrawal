@@ -103,7 +103,7 @@ const ishaan = {
 
 **🐱 My GitHub Data** 
 
-> 📦 270.4 kB Used in GitHub's Storage 
+> 📦 270.3 kB Used in GitHub's Storage 
  > 
 > 🏆 238 Contributions in the Year 2026
  > 
@@ -169,7 +169,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshaanAggrawal/IshaanAggrawal/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2026 19:38:05 UTC
+ Last Updated on 03/05/2026 19:37:13 UTC
 <!--END_SECTION:waka-->
 
 ---
