@@ -116,20 +116,20 @@ const ishaan = {
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                194 commits         █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-🌆 Daytime                308 commits         ████████░░░░░░░░░░░░░░░░░   32.46 % 
-🌃 Evening                407 commits         ███████████░░░░░░░░░░░░░░   42.89 % 
-🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+🌞 Morning                193 commits         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
+🌆 Daytime                308 commits         ████████░░░░░░░░░░░░░░░░░   32.49 % 
+🌃 Evening                407 commits         ███████████░░░░░░░░░░░░░░   42.93 % 
+🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Tuesday                  158 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-Wednesday                82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Thursday                 131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-Friday                   197 commits         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Saturday                 188 commits         █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Monday                   125 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Tuesday                  157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Wednesday                82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Thursday                 131 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Friday                   197 commits         █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+Saturday                 188 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
 Sunday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 ```
 
@@ -169,7 +169,7 @@ Java                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/IshaanAggrawal/IshaanAggrawal/main/assets/bar_graph.png)
 
 
- Last Updated on 03/05/2026 19:37:13 UTC
+ Last Updated on 04/05/2026 20:07:11 UTC
 <!--END_SECTION:waka-->
 
 ---
